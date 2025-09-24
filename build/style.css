@@ -5,7 +5,7 @@
   font-family: sans-serif;
 }
 body {
-background: linear-gradient(to right,#7e7d7d,rgb(63, 59, 59) ); 
+background: linear-gradient(to right, #3b5455,#859d9d);
  color: whitesmoke;
   display: flex;
   flex-direction: column;
